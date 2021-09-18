@@ -3,9 +3,7 @@
 Projeto em fase inicial desenvolvido para estudo do framework.
 Com a ultilização do Expo.
 
-<h1 align="center">
-    <img alt="calculdora" src="./img/imc.gif">
-</h1>
+![imc](https://user-images.githubusercontent.com/43572938/133889163-a3aba9df-2e57-45b7-a98e-7dcad4866d15.gif)
 
 ### Rodando a Calculadora de imc
 ~~~bash
