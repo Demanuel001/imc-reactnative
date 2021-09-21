@@ -1,6 +1,6 @@
 # Calculadora de imc
 
-Projeto em fase inicial desenvolvido para estudo do framework.
+**Projeto em fase inicial desenvolvido para estudo do framework.
 Com a ultilização do Expo.
 
 ![imc](https://user-images.githubusercontent.com/43572938/133889163-a3aba9df-2e57-45b7-a98e-7dcad4866d15.gif)
